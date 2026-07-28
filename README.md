@@ -11,7 +11,7 @@ through evaluation to deployed, monitored inference.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abilvj2.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white)](https://abilvj2.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abilvjose-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abilvjose/)
-[![Email](https://img.shields.io/badge/Email-abilvj2%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abilvj2@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-Get_in_touch-22c55e?style=flat-square&logo=minutemailer&logoColor=white)](https://abilvj2.github.io/Portfolio/#contact)
 
 </div>
 
@@ -88,6 +88,7 @@ evaluation, and models that stay maintainable after the demo is over.
 
 **Open to AI / ML engineering roles.**
 
-The fastest way to reach me is [email](mailto:abilvj2@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abilvjose/).
+Reach me through the [contact form](https://abilvj2.github.io/Portfolio/#contact)
+or on [LinkedIn](https://www.linkedin.com/in/abilvjose/).
 
 </div>
