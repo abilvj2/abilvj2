@@ -2,10 +2,10 @@
 
 # Abil Varkichan Jose
 
-**AI / Machine Learning Engineer**
+**AI Engineer · Software Engineer**
 
-Building machine learning systems end to end — from data and training
-through evaluation to deployed, monitored inference.
+Building production Python applications, LLM and RAG systems, and scalable
+data pipelines across healthcare and enterprise environments.
 
 📍 Dallas, TX
 
@@ -19,25 +19,28 @@ through evaluation to deployed, monitored inference.
 
 ## About
 
-Computer Science graduate with industrial software engineering experience,
-working across artificial intelligence, machine learning, robotic automation
-and data science.
+Software engineer with 5+ years building production Python applications,
+AI-powered solutions and scalable data pipelines. Experienced across the full
+AI development lifecycle — data ingestion through deployment and monitoring.
 
-- **Deep learning** — computer vision, generative models (GANs), and NLP
-- **Cloud ML** — training and serving models on Google Cloud Platform
-- **Automation** — robotic process automation and document/form processing
-- **Data** — pipelines, SQL, and analysis that holds up to scrutiny
+- 🤖 **Generative AI** — LLM applications, RAG, and AI agents on Azure OpenAI and Microsoft Copilot Studio
+- 🧠 **Machine learning** — TensorFlow, PyTorch and Scikit-learn, with computer vision and NLP
+- ⚙️ **Engineering** — RESTful APIs, containerised deployment (Docker, Kubernetes), CI/CD
+- 📊 **Data** — pipelines and real-time analytics on Microsoft Fabric, Power BI, Spark
+- 🏥 **Healthcare** — HIPAA-aligned handling of PHI, serving 500+ users
 
-I care about the unglamorous parts: reproducible training runs, honest
-evaluation, and models that stay maintainable after the demo is over.
+Currently a Software Engineer at Creative Solutions in HealthCare. Previously
+HP and Infosys. M.S. in Computer Science from UT Arlington.
 
 ## Tech Stack
 
-**Languages**
+**Generative AI & LLM**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_/_Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-38bdf8?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
 **Machine Learning**
 
@@ -47,18 +50,40 @@ evaluation, and models that stay maintainable after the demo is over.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Data & Tooling**
+**Languages**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_/_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud**
+**Cloud & DevOps**
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**APIs, Data & Automation**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+
+## Experience
+
+| Role | Organisation | When |
+| --- | --- | --- |
+| **Software Engineer** | Creative Solutions in HealthCare, TX | Jul 2024 — Present |
+| **Intelligent Automation & Data Visualization Architect** (Intern) | HP (Hewlett Packard) | May 2023 — Aug 2023 |
+| **Senior Software Engineer** | Infosys Ltd, Mysuru, India | Oct 2019 — May 2022 |
 
 ## Featured Projects
 
@@ -72,6 +97,15 @@ evaluation, and models that stay maintainable after the demo is over.
 | **[SQL 50](https://github.com/abilvj2/SQL50)** | LeetCode SQL 50 solutions covering window functions, joins, aggregation and query optimisation. | SQL |
 
 → **[See the full portfolio](https://abilvj2.github.io/Portfolio/)**
+
+## Certifications
+
+![AI-900](https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals_(AI--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PL-900](https://img.shields.io/badge/Microsoft_Certified-Power_Platform_Fundamentals_(PL--900)-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Harvard](https://img.shields.io/badge/Harvard-AI_with_Python-A51C30?style=flat-square)
+
+🏆 **Best People's Choice Intern Award** — business impact across global HP interns (2023)
+🏆 **Project Excellence Award** — Microsoft Business Application Practice, Infosys
 
 ## GitHub Stats
 
