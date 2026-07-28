@@ -81,14 +81,24 @@ HP and Infosys. M.S. in Computer Science from UT Arlington.
 
 | Role | Organisation | When |
 | --- | --- | --- |
-| **Software Engineer** | Creative Solutions in HealthCare, TX | Jul 2024 — Present |
-| **Intelligent Automation & Data Visualization Architect** (Intern) | HP (Hewlett Packard) | May 2023 — Aug 2023 |
-| **Senior Software Engineer** | Infosys Ltd, Mysuru, India | Oct 2019 — May 2022 |
+| **Software Engineer** | Creative Solutions in HealthCare, Fort Worth, TX | Jul 2024 — Present |
+| **Graduate Research Assistant — Cross-Platform Developer** | Computer Science & Engineering, UT Arlington | Oct 2022 — May 2024 |
+| **Automation & Data Visualization Architect** (Intern) | HP (Hewlett Packard), Houston, TX | May 2023 — Aug 2023 |
+| **Senior Software Engineer** | Infosys Ltd, Mysuru, India | Oct 2019 — Jun 2022 |
+
+## Speaking
+
+🎤 **Power Platform and Copilot Agents** — Arlington Microsoft Fabric User Group, May 2026
+
+A hands-on session on building Power Automate flows and how the Power Platform
+serves as the action engine for custom Copilot Agents, with an introduction to
+AI agents.
 
 ## Featured Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[Robot Framework Insurance Automation](https://github.com/abilvj2/RoboCorp)** | End-to-end insurance claim processing with no human intervention — extracts insurance data from the web, runs the calculations, then fills clinic software and billing PDFs automatically. | Robot Framework · RPA · Document AI |
 | **[Face-to-Sketch CycleGAN](https://github.com/abilvj2/Face-to-Sketch-Cycle-GAN)** | Unpaired image-to-image translation turning face photographs into artistic sketches, using adversarial and cycle-consistency losses. | PyTorch · GANs · Computer Vision |
 | **[GCP Traffic Signal Classifier](https://github.com/abilvj2/GCP-Traffic-Signal-Classifier)** | CNN that classifies traffic sign images with high accuracy, deployed on Google Cloud Platform for real-time recognition. | TensorFlow · Keras · GCP |
 | **[Face-Enabled Secure Browser](https://github.com/abilvj2/Face-enabled-Browser)** | Security browser gated by real-time face recognition — continuously verifies the operator and locks on an unrecognised face. | OpenCV · Python |
@@ -102,10 +112,15 @@ HP and Infosys. M.S. in Computer Science from UT Arlington.
 
 ![AI-900](https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals_(AI--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![PL-900](https://img.shields.io/badge/Microsoft_Certified-Power_Platform_Fundamentals_(PL--900)-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Harvard](https://img.shields.io/badge/Harvard-AI_with_Python-A51C30?style=flat-square)
+![CS50](https://img.shields.io/badge/HarvardX_CS50-AI_with_Python-A51C30?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/Coursera-TensorFlow_for_AI_&_Deep_Learning-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![Keras](https://img.shields.io/badge/Coursera-Image_Classification_with_CNNs-0056D2?style=flat-square&logo=coursera&logoColor=white)
 
 🏆 **Best People's Choice Intern Award** — business impact across global HP interns (2023)
+
 🏆 **Project Excellence Award** — Microsoft Business Application Practice, Infosys
+
+🤝 **FIFA World Cup 2026** — tournament volunteer
 
 ## GitHub Stats
 
