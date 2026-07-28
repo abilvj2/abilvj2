@@ -19,7 +19,7 @@ data pipelines across healthcare and enterprise environments.
 
 ## About
 
-Software engineer with 5+ years building production Python applications,
+Software engineer with 7+ years building production Python applications,
 AI-powered solutions and scalable data pipelines. Experienced across the full
 AI development lifecycle — data ingestion through deployment and monitoring.
 
