@@ -2,7 +2,7 @@
 
 # Abil Varkichan Jose
 
-**AI Engineer · Software Engineer**
+**Intelligent Automation / AI Engineer**
 
 Building production Python applications, LLM and RAG systems, and scalable
 data pipelines across healthcare and enterprise environments.
@@ -10,6 +10,7 @@ data pipelines across healthcare and enterprise environments.
 📍 Dallas, TX
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abilvj2.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white)](https://abilvj2.github.io/Portfolio/)
+[![Résumé](https://img.shields.io/badge/Résumé-Download_PDF-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://abilvj2.github.io/Portfolio/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abilvjose-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abilvjose/)
 [![Contact](https://img.shields.io/badge/Contact-Get_in_touch-22c55e?style=flat-square&logo=minutemailer&logoColor=white)](https://abilvj2.github.io/Portfolio/#contact)
 
@@ -98,6 +99,7 @@ AI agents.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[Prior-Authorization Copilot](https://github.com/abilvj2/Authorization-Copilot-Agentic-RAG-for-Eligibility-Claims)** | Agentic RAG decision support for prior-authorization review — typed, cited and abstention-first. There is no `APPROVED` value in the output enum, so it cannot issue a decision; every claim traces to a quoted policy section. | Pydantic AI · FastAPI · pgvector · XGBoost |
 | **[Robot Framework Insurance Automation](https://github.com/abilvj2/RoboCorp)** | End-to-end insurance claim processing with no human intervention — extracts insurance data from the web, runs the calculations, then fills clinic software and billing PDFs automatically. | Robot Framework · RPA · Document AI |
 | **[Face-to-Sketch CycleGAN](https://github.com/abilvj2/Face-to-Sketch-Cycle-GAN)** | Unpaired image-to-image translation turning face photographs into artistic sketches, using adversarial and cycle-consistency losses. | PyTorch · GANs · Computer Vision |
 | **[GCP Traffic Signal Classifier](https://github.com/abilvj2/GCP-Traffic-Signal-Classifier)** | CNN that classifies traffic sign images with high accuracy, deployed on Google Cloud Platform for real-time recognition. | TensorFlow · Keras · GCP |
