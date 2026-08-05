@@ -99,6 +99,7 @@ AI agents.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[TraceLens — LLM Regression Eval](https://github.com/abilvj2/Regression-Eval-for-LLMS)** | Self-hosted observability and regression-evaluation platform for LLM agents. Separates real regressions from noise with a bootstrap 95% confidence interval on the paired per-item delta, and keeps seven of its eight graders deterministic — so most evaluation needs no model API key. | TypeScript · Next.js · Fastify · Python · Postgres |
 | **[Prior-Authorization Copilot](https://github.com/abilvj2/Authorization-Copilot-Agentic-RAG-for-Eligibility-Claims)** | Agentic RAG decision support for prior-authorization review — typed, cited and abstention-first. There is no `APPROVED` value in the output enum, so it cannot issue a decision; every claim traces to a quoted policy section. | Pydantic AI · FastAPI · pgvector · XGBoost |
 | **[Robot Framework Insurance Automation](https://github.com/abilvj2/RoboCorp)** | End-to-end insurance claim processing with no human intervention — extracts insurance data from the web, runs the calculations, then fills clinic software and billing PDFs automatically. | Robot Framework · RPA · Document AI |
 | **[Face-to-Sketch CycleGAN](https://github.com/abilvj2/Face-to-Sketch-Cycle-GAN)** | Unpaired image-to-image translation turning face photographs into artistic sketches, using adversarial and cycle-consistency losses. | PyTorch · GANs · Computer Vision |
